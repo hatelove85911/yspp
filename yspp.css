@@ -181,6 +181,45 @@ Plans
       font-size: 2rem; }
 
 /*********************************************************************************
+shandai
+**********************************************************************************/
+.shaidan {
+  color: #f7f5f9;
+  max-width: 992px;
+  text-align: center;
+  margin: auto; }
+  .shaidan .zhongbiao {
+    background-color: #FF5000; }
+  .shaidan .chedan {
+    background-color: grey; }
+  .shaidan .shaidan-shuoming {
+    color: #f7f5f9;
+    text-align: center;
+    font-size: 2rem; }
+    .shaidan .shaidan-shuoming .zhongbiao {
+      padding-left: 4rem;
+      background-color: #FF5000; }
+    .shaidan .shaidan-shuoming .chedan {
+      margin-left: 2rem;
+      padding-left: 4rem;
+      background-color: grey; }
+
+.zhongbiao-jietu-shuoming {
+  color: #f7f5f9;
+  text-align: center; }
+
+.current-month-shujujianbao h3 {
+  color: #f7f5f9;
+  text-align: center; }
+
+.current-month-shujujianbao table {
+  color: #f7f5f9;
+  max-width: 700px; }
+
+td.zhongbiao-highlight {
+  background-color: #69d3c2 !important; }
+
+/*********************************************************************************
 history
 **********************************************************************************/
 .historyshow {
@@ -197,7 +236,7 @@ history
 contact methods
 **********************************************************************************/
 #contact_us {
-  color: #617be5; }
+  color: #f7f5f9; }
   #contact_us table.quick_link {
     margin: 0 auto;
     text-align: center; }
